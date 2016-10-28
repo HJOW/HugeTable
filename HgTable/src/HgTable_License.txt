@@ -1,0 +1,63 @@
+﻿Huge Table v0.0.0.21 License (2016.01.10)
+---------------------------------------------------------------------------------------------
+Copyright 2015 HJOW
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---------------------------------------------------------------------------------------------
+
+Huge Table using Apache POI, Apache Common Codecs, Apache PDFBox, Sciss SyntaxPane
+ Google GSON, Scala libraries, and following JDBC drivers.
+
+MariaDB
+Cubrid
+H2
+
+Huge Table (v0.0.0.21) is following Apache License 2.0.
+Huge Table is not developed by Apache Software Foundation, so you cannot get supports 
+about this program from Apache Software Foundation.
+
+Huge Table using libraries which following another licenses.
+You should agree these license agreements to use Huge Table.
+
+Apache POI, Apache Common codecs, Apache PDFBox, 
+JSyntaxPane, and Google GSON following Apache License 2.0.
+
+Apache Common Codecs following Apache license 1.1.
+Apache POI and Common Codecs are developed by Apache Software Foundation.
+
+Reflextions following WTFPL license.
+You can see this freedom license documents at http://www.wtfpl.net/
+
+Cubrid JDBC drivers, and Scala Libraries following BSD License.
+
+MariaDB JDBC drivers have another license agreements called LGPL.
+
+H2 DB have another license agreements called MPL 2.0.
+
+You can see LGPL license agreements at
+https://www.gnu.org/copyleft/lesser.html
+also, you can see LGPL_2.1.txt to see these agreements offline.
+
+You can see H2 DB license agreements at
+http://www.h2database.com/html/license.html
+also, you can see H2_License.txt to see these agreements offline.
+
+Oracle JDBC driver is not included in this project.
+Visit
+http://www.oracle.com/technetwork/database/features/jdbc/index-091264.html
+to download JDBC driver, and put it in jdbc folder to use.
+
+If you have some questions about Huge Table, E-Mail it to me.
+hujinone22@naver.com
+hujinone@eduncom.co.kr

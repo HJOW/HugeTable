@@ -1,0 +1,13 @@
+Visit urls to see useful informations.
+
+
+https://referto.wordpress.com/2014/04/16/java-jar-%EC%8B%A4%ED%96%89%EC%8B%9C-%EC%99%B8%EB%B6%80-jar-%ED%8C%8C%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-classpath-%EA%B0%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4/
+http://lng1982.tistory.com/153
+http://sinpk.tistory.com/entry/JadClipse-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8
+http://twitter.github.io/scala_school/ko/
+https://spring.io/guides/gs/gradle/
+http://netframework.tistory.com/401
+http://helloworld.naver.com/helloworld/textyle/645609
+https://pdfbox.apache.org/
+https://kldp.org/node/108734
+https://github.com/monitorjbl/excel-streaming-reader
